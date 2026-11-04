@@ -1,0 +1,23 @@
+[package]
+name = "findanything"
+version = "0.22.2"
+edition = "2021"
+authors = ["Droid"]
+license = "GPL-3.0-or-later"
+description = "Everything-style instant filename search for Linux, kept live by fanotify"
+
+[[bin]]
+name = "fa"
+path = "src/main.rs"
+
+[[bin]]
+name = "fa-gui"
+path = "src/gui.rs"
+
+[dependencies]
+libc = "0.2"
+gtk = { package = "gtk4", version = "0.11", features = ["v4_12"] }
+adw = { package = "libadwaita", version = "0.9", features = ["v1_7"] }
+
+[profile.release]
+strip = true
