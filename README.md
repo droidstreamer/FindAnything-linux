@@ -4,7 +4,10 @@ Instant file search for Linux, like Search Everything on Windows. A small backgr
 
 ![Find Anything: find anything, instantly](docs/poster.png)
 
-▶ **[Watch the 30-second tour](docs/FindAnything_sizzle_v0.22.2.mp4)**
+
+https://github.com/user-attachments/assets/a4cc27a7-3def-4cc4-8ca1-0474f81dbff4
+
+
 
 ## Why Find Anything
 
