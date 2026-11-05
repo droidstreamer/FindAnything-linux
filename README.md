@@ -1,13 +1,12 @@
+
+https://github.com/user-attachments/assets/a4cc27a7-3def-4cc4-8ca1-0474f81dbff4
+
+
 # Find Anything
 
 Instant file search for Linux, like Search Everything on Windows. A small background service keeps a live index of every drive, and the window searches it as you type.
 
 ![Find Anything: find anything, instantly](docs/poster.png)
-
-
-https://github.com/user-attachments/assets/a4cc27a7-3def-4cc4-8ca1-0474f81dbff4
-
-
 
 ## Why Find Anything
 
